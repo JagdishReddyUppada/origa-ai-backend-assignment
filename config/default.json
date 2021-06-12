@@ -1,0 +1,14 @@
+{
+  "env": "development",
+  "name": "origa.ai",
+  "ServerPort": 8080,
+  "timezone": "Asia/Kolkata",
+  "production": false,
+  "cache": "flat_cache",
+  "DATABASE_LOCAL": "mongodb://localhost:27017/origa-app",
+  "DATABASE":"mongodb+srv://jagdish:<password>@cluster0.6c6l3.mongodb.net/origa-app",
+  "PASSWORD" : "a7Y30VPD1AkWlmn4"
+
+ 
+}
+      
