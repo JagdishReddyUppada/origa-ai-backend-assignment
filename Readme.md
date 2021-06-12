@@ -6,10 +6,10 @@
 
 ## Requirements
 
-node 12.18.2 or higher
-npm version 6.14.7 or higher
-mysql/mariadb 8.0.0 0r higher
-nodemon npm package (OPTIONAL)
+node 12.18.2 or higher\
+npm version 6.14.7 or higher\
+mysql/mariadb 8.0.0 0r higher\
+nodemon npm package (OPTIONAL)\
 
 By, default npm comes with node, no need to install seperatly.
 
