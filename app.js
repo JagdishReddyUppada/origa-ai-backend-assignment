@@ -43,7 +43,7 @@ app.use(function (err, req, res, next) {
 
   // render the error page
     res.status(err.status || 500);
-    res.json(`No API is registered with this route ${req.url}`);
+    res.json({ message: `No API is registered with this route ${req.url} and method ${req.method}` });
 });
 
 
