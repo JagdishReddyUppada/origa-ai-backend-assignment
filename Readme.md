@@ -8,7 +8,7 @@
 
 node 12.18.2 or higher\
 npm version 6.14.7 or higher\
-mongodb 4.0.0 0r higher (for local setup, this project is connected with free mongodb atlas)\
+mongodb 4.0.0 or higher (for local setup, this project is connected with free mongodb atlas)\
 nodemon npm package (OPTIONAL)\
 
 By, default npm comes with node, no need to install seperatly.
