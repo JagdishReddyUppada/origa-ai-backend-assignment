@@ -18,7 +18,7 @@ By, default npm comes with node, no need to install seperatly.
 Step 1 : Clone this Repository into your local machine.
 Step 2 : Install all the dependencies by running the command `npm install or npm i`.
 Step 3 : Before running this project in a local machine, you also need to setup a mysql database (Refer to below where detail explanation is given, about how database is going to setting up).
-Step 4 : After setting up all the things including database, now you can run a local development server by running command `npm run main` or by simply running the command `nodemon` (nodemon will only work if you have nodemon npm package installed).
+Step 4 : After setting up all the things including database, now you can run a local development server by running command `npm run start` or by simply running the command `nodemon` (nodemon will only work if you have nodemon npm package installed).
 Step 5 : Your server is running up on `http://localhost:8080`, look at your command promt/terminal.\
 
 Now you are good to go.
